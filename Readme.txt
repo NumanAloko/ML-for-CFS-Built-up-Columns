@@ -1,0 +1,1 @@
+detaisl of mdoels
