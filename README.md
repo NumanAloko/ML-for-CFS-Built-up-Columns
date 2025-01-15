@@ -3,6 +3,4 @@ This repository provides machine learning (ML) models for predicting axial stren
 
 For comprehensive details about developing machine learning models, please refer to the open-access journal article titled "Capacity Prediction and Failure Mode Classification of Cold-Formed Steel Built-up Columns Using Machine Learning Methods," https://doi.org/10.1016/j.tws.2024.112873.
 
-To access the complete and detailed database of Cold-formed steel built-up columns, please visit the University of Bristol's repository using the following link: ##### will be added upon receiving ###, where you can find all relevant data details, a user manual, and buckling analysis data of all CFS built-up sections.
-
-
+The complete and detailed database of Cold-formed steel built-up columns (CFS_Database. V2) is available at the University of Bristol data repository, data.bris, at https://doi.org/10.5523/bris.1sizgyhjuufm926zq4o5ff5b48. 
